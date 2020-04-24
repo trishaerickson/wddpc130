@@ -8,7 +8,7 @@ Fonts are separated by a | */
   --primary-color: #EAEAEA;
   --secondary-color: #BAC1B8;
   --accent1-color: #2F4858;
-  --accent2-color: #9F9AA4;
+  --accent2-color: #A9AFD1;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "IM Fell French Canon SC";
@@ -16,14 +16,14 @@ Fonts are separated by a | */
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: black;  /* headlines on a white background */ 
-  --headline-color-on-color: #FFFFFF; /* headlines on a colored background */ 
+  --headline-color-on-color: #EAEAEA; /* headlines on a colored background */ 
   --paragraph-color-on-white: black; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #FFFFFF; /* paragraph text on a colored background */ 
-  --text-background-color: #000000;
-  --nav-link-color: #396E94;
-  --nav-background-color: #E7C24F;
-  --nav-hover-link-color: #E7C24F;
-  --nav-hover-background-color: #396E94;
+  --paragraph-color-on-color: #EAEAEA; /* paragraph text on a colored background */ 
+  --text-background-color: #2F4858;
+  --nav-link-color: #2F4858;
+  --nav-background-color: #EAEAEA;
+  --nav-hover-link-color: #A9AFD1;
+  --nav-hover-background-color: #EAEAEA;
 }
 
 
