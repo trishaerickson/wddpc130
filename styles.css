@@ -1,11 +1,11 @@
 h2 {
-  background-color: #FAEBD7;
+  background-color: #554971;
 }
 
 h1, h3, h4, h5, h6 {
-  color: #8C1C13;
+  color: #F9C22E;
 }
 
-div content {
+div {
   max-width: 960px;
 }
