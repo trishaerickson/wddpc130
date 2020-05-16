@@ -5,10 +5,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #FFF1E6;
+  --primary-color: #F0EFEB;
   --secondary-color: #DDBEA9;
-  --accent1-color: #1B1B1E;
-  --accent2-color: #FAA916;
+  --accent1-color: #A5A58D;
+  --accent2-color: #B7B7A4;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "anton";
@@ -19,11 +19,11 @@ Fonts are separated by a | */
   --headline-color-on-color: white; /* headlines on a colored background */ 
   --paragraph-color-on-white: black; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --text-background-color: #EDDCD2;
-  --nav-link-color: #6D676E;
-  --nav-background-color: #FAA916;
+  --text-background-color: #B7B7A4;
+  --nav-link-color: #F0EFEB;
+  --nav-background-color: #DDBEA9;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #1B1B1E;}
+  --nav-hover-background-color: #DDBEA9;}
 
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
